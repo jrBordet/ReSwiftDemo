@@ -37,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F802716227D0AFB000010805 /* ReSwiftTest */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = ReSwiftTest; sourceTree = "<group>"; };
 		F855D5C827CF5BC600CC6F83 /* App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
 		F8A7111827C7DB7B0008855E /* ReSwiftDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReSwiftDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8A7111D27C7DB7B0008855E /* CounterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterView.swift; sourceTree = "<group>"; };
@@ -157,6 +158,7 @@
 		F8A7114A27C7E1C30008855E /* Packages */ = {
 			isa = PBXGroup;
 			children = (
+				F802716227D0AFB000010805 /* ReSwiftTest */,
 				F8A7114B27C7E1C30008855E /* ReSwift */,
 			);
 			name = Packages;
@@ -260,6 +262,8 @@
 				Base,
 			);
 			mainGroup = F8A7110F27C7DB7B0008855E;
+			packageReferences = (
+			);
 			productRefGroup = F8A7111927C7DB7B0008855E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";

@@ -8,6 +8,7 @@
 import XCTest
 @testable import ReSwiftDemo
 import ReSwift
+import ReSwiftTest
 
 class ReSwiftDemoTests: XCTestCase {
 	
